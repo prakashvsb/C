@@ -6,12 +6,8 @@ clrscr();
 char x;
 scanf("%c",&x);
 if(x==a,e,i,o,u)
-{
 printf("the letter is vowel");
-}
 else
-{
 printf("the letter is constant");
-}
 getch();
 }
