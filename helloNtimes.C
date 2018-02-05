@@ -1,10 +1,12 @@
-include<stdio.h>
+
+#include<stdio.h>
 int main()
 {
-int counter;
-for(counter=0;counter<n;counter++);
+int i;
+for(i=1;i<=30;i++)
 {
-printf("\nHello SRP\n");
+printf("Hello Word\n");
 }
+getch();
 return 0;
 }
